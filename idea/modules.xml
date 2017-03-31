@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlternativeSolutionToInheritance/AlternativeSolutionToInheritance.iml" filepath="$PROJECT_DIR$/AlternativeSolutionToInheritance/AlternativeSolutionToInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CorePrincipleOfObjectOrientedPrgramming/CorePrincipleOfObjectOrientedPrgramming.iml" filepath="$PROJECT_DIR$/CorePrincipleOfObjectOrientedPrgramming/CorePrincipleOfObjectOrientedPrgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreSoftwarePrinciplesObeyed/CoreSoftwarePrinciplesObeyed.iml" filepath="$PROJECT_DIR$/CoreSoftwarePrinciplesObeyed/CoreSoftwarePrinciplesObeyed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CoreSoftwarePrinciplesViolated/CoreSoftwarePrinciplesViolated.iml" filepath="$PROJECT_DIR$/CoreSoftwarePrinciplesViolated/CoreSoftwarePrinciplesViolated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftwareDesignPrinciples.iml" filepath="$PROJECT_DIR$/SoftwareDesignPrinciples.iml" />
+    </modules>
+  </component>
+</project>
